@@ -1,0 +1,12 @@
+/* Css Styles for div class table3  */
+.table3 table{
+    
+    border: 1px solid black; /* border  */
+}
+.table3 tr td{
+    border: 1px solid black;
+}
+.table3 th{
+    
+    border: 1px solid black;
+}
